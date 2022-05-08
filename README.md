@@ -70,3 +70,8 @@
  * [KANIKIG](https://github.com/KANIKIG/Multi-EasyGost)
  * [wulabing](https://github.com/wulabing/Xray_onekey)
  * [mack-a](https://github.com/mack-a/v2ray-agent)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Netflixxp/jcnf-box.svg)](https://starchart.cc/Netflixxp/jcnf-box)
